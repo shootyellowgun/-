@@ -7,7 +7,7 @@
     <Foot></Foot>
   </div>
 </template>
-
+// 我来了
 <script>
 import "./assets/js/reset.js";
 import Head from "./components/Head.vue";
